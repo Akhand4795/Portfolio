@@ -1,0 +1,87 @@
+[
+  {
+    "id": 0,
+    "title": "EduVerse",
+    "category": "Major",
+    "image": "images/Project-11.png",
+    "link": "https://github.com/Akhand4795/EduVerse"
+
+  },
+  {
+    "id": 1,
+    "title": "E-commerce",
+    "category": "Major",
+    "image": "images/Project-10.png",
+    "link": "#"
+
+  },
+  {
+    "id": 2,
+    "title": "Restaurant",
+    "category": "Major",
+    "image": "images/Project-5.png",
+    "link": "https://github.com/Akhand4795/Restaurant"
+    
+  },
+  {
+    "id": 3,
+    "title": "Blog App using React",
+    "category": "Major",
+    "image": "images/Project-8.png",
+    "link": "https://github.com/Akhand4795/blog_app_1"
+
+  },
+  {
+    "id": 4,
+    "title": "Workout Buddy",
+    "category": "Major",
+    "image": "images/Project-9.png",
+    "link": "https://github.com/Akhand4795/Workout_Buddy"
+
+  },
+  {
+    "id": 5,
+    "title": "Blog",
+    "category": "Journey",
+    "image": "images/Project-7.png",
+    "link": "https://github.com/Akhand4795/Blog_Using_EJS"
+  },
+  {
+    "id": 6,
+    "title": "To-Do List",
+    "category": "Journey",
+    "image": "images/Project-3.png",
+    "link": "https://github.com/Akhand4795/To_Do_List"
+  },
+  {
+    "id": 7,
+    "title": "Weather",
+    "category": "Journey",
+    "image": "images/Project-6.png",
+    "link": "https://github.com/Akhand4795/Weather_App"
+  },
+  {
+    "id": 8,
+    "title": "Calculator",
+    "category": "Journey",
+    "image": "images/Project-1.png",
+    "link": "https://github.com/Akhand4795/Calculator_Using_JS"
+
+  },
+  {
+    "id": 9,
+    "title": "Clock",
+    "category": "Journey",
+    "image": "images/Project-2.png",
+    "link": "#"
+
+  },
+  {
+    "id": 10,
+    "title": "E-commerce Product Page",
+    "category": "Journey",
+    "image": "images/Project-4.png",
+    "link": "https://github.com/Akhand4795/DevTown"
+
+  }
+]
